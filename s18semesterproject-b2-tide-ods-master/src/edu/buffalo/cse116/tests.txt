@@ -1,0 +1,34 @@
+BOARDTEST.JAVA[
+	{The method setList() reads from a file and stores all strings in an arraylist
+ 	to be used as codenames.}
+ 
+	{The method testBoard() tests if the Board class constructor initializes
+ 	25 Location instances.}
+
+	{The method testReadFile() tests if readFile() in the Board class reads the file
+ 	and puts the strings in an arrayList.}
+ 
+	{The method testPickNames() tests if pickNames() in the Board class
+ 	randomly selects 25 codenames from an arrayList of strings.}
+ 
+	{The method testSetAssignment() tests if setAssignment() in the Board class
+ 	generates the 25 cards to use in the game.}
+ 
+	{The method testStart() tests if start() in the Board class assigns all 25 Location
+ 	instances to the 5x5 array that will be displayed in the GUI.}
+ 
+	{The method testCheckClue() tests if checkClue() in the Board class 
+ 	correctly returns if a clue is legal or illegal.}
+ 
+	{The method testPickCard() tests if pickCard() in the Board class decrements
+ 	the number of cards left when it is called and sets the Location as revealed.}
+ 
+	{The method testWin() tests if win() in the Board class correctly returns
+ 	the value which tells you which team won.}
+ 
+	{The method testAssLose() tests if assLose() in the Board class 
+	 correctly returns which team did not lose when assassin card was revealed.}
+ ]
+ 
+ 
+ 
